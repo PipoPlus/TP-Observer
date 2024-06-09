@@ -1,6 +1,6 @@
-package org.example.DecoratorVersion;
+package org.example.MedidorDeTempertatura.DecoratorVersion;
 
-import org.example.Observer;
+import org.example.MedidorDeTempertatura.Observer;
 
 public class ObserverDecorator implements Observer {
 

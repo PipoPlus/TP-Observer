@@ -1,6 +1,6 @@
-package org.example.DecoratorVersion;
+package org.example.MedidorDeTempertatura.DecoratorVersion;
 
-import org.example.Observer;
+import org.example.MedidorDeTempertatura.Observer;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
